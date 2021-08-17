@@ -1,4 +1,4 @@
-### 北歌⚡
+## 北歌⚡
 
 > 业精于勤，荒于嬉
 
@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 -->
 
 <!-- card -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=it-beige&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=it-beige&theme=tokyonight&show_icons=true)](https://github.com/it-beige)
+----
 <!-- repertory -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=it-beige&repo=dynamic-ui)](https://github.com/anuraghazra/github-readme-stats)
-
+### 个人项目⚡
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=it-beige&repo=dynamic-ui)](https://github.com/it-beige/dynamic-ui)
+----
 
 <!-- Top Languages Card -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it-beige&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
