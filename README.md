@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <!-- repertory -->
 ### 个人项目⚡
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=it-beige&repo=dynamic-ui)](https://github.com/it-beige/dynamic-ui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=it-beige&repo=beige-algorithm)](https://github.com/it-beige/beige-algorithm)
 ----
 
 <!-- Top Languages Card -->
