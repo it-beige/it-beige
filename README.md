@@ -27,39 +27,7 @@
 
 ### 🏆 GitHub Stats
 
-<table>
-  <tr>
-    <td width="30%" >
-      <img src="https://github-readme-stats.vercel.app/api?username=it-beige&theme=onedark&show_icons=true&hide_border=true&show_stars=true&show_prs=true&show_commits=true"  height="180px"/>
-    </td>
-    <td width="30%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=it-beige&theme=onedark&hide_border=true&date_format=%5BY.%5Dn.j"  height="200px" />
-    </td>
-     <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it-beige&theme=onedark&layout=compact&hide_border=true&card_width=400"  height="200px" />
-    </td>
-  </tr>
-</table>
-
+<img src="https://streak-stats.demolab.com/?user=it-beige&theme=onedark&hide_border=true&date_format=%5BY.%5Dn.j"  height="200px" />
 
 ---
 
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/it-beige/demo-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=it-beige&repo=demo-agent&theme=onedark&show_owner=true&hide_border=true" width="100%" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/it-beige/eva">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=it-beige&repo=eva&theme=onedark&show_owner=true&hide_border=true" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
